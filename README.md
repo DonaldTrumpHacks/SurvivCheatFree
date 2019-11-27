@@ -9,7 +9,7 @@ Download
 How to download IceHacks:
 
 Go to the download page.
-Click on "latest.zip" under "Assets", you will download the cheats ZIP.
+Download the cheats ZIP.
 Installation
 To install the cheat:
 
@@ -19,7 +19,7 @@ Extract the ZIP file into a folder (if on ChromeOS follow extraction instruction
 Open Chrome*, and enter "chrome://extensions" in the address bar, or get to extensions via settings.
 Once you have gotten to extensions, click the button on the top right labeled "developer mode" to turn on Dev Mode.
 Now on the top left corner, there is a button labeled "load unpacked". Click that and select the folder in which you extracted the Cheat files.
-You now have the IceHacks cheat! (Or you should). If you want to enable IceHacks for incognito, click on "details", scroll down and select "allow in incognito".
+
 * The cheat supports any chromium browser with extension support (this includes: Opera, Chrome, Edge Chromium, Vivaldi, ...).
 
 If you get any errors while installing make sure to have the right folder selected.
